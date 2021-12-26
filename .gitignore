@@ -6,3 +6,5 @@
 *.hi
 *.o
 *.out
+
+__pycache__
